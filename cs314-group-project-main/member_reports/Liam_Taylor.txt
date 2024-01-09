@@ -1,0 +1,22 @@
+Member Name: Liam Taylor
+Member Number: 948138659
+Member Address: 101 Cedar Lane
+Member City: Tranquil Springs
+Member State: Montana
+Member Zip: 66693
+
+Date of Service: 11-26-2023
+Provider Name: Owen Bennett
+Service Name: Psychotherapy
+--------------------------------------
+
+Date of Service: 12-01-2023
+Provider Name: Olivia Mitchell
+Service Name: Chocolate Detox Therapy
+--------------------------------------
+
+Date of Service: 11-26-2023
+Provider Name: Grace White
+Service Name: Medical Evaluation
+--------------------------------------
+

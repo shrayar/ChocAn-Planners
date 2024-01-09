@@ -1,0 +1,17 @@
+Provider Name: Ella Foster
+Provider Number: 117291000
+Provider Address: 2578 Magnolia Drive
+Provider City: Harmonyville
+Provider State: Kentucky
+Provider Zip: 83059
+
+Date of Service: 12-01-2023
+Date Recorded: 12-01-2023 15:19:56
+Member Name: Wyatt Hayes
+Member Number: 534198653
+Service Name: Psychotherapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 1
+Total Fee for the Week: $0.00

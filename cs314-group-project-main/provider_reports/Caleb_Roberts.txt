@@ -1,0 +1,25 @@
+Provider Name: Caleb Roberts
+Provider Number: 634951181
+Provider Address: 1122 Magnolia Drive
+Provider City: Maplewood
+Provider State: Oregon
+Provider Zip: 88803
+
+Date of Service: 11-25-2023
+Date Recorded: 11-26-2023 08:27:18
+Member Name: Caleb Roberts
+Member Number: 983659929
+Service Name: Cognitive-Behavioral Therapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-27-2023 08:41:35
+Member Name: Benjamin Dixon
+Member Number: 231207081
+Service Name: Aerobic Exercise
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

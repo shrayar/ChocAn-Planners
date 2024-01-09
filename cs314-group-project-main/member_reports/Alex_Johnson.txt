@@ -1,0 +1,17 @@
+Member Name: Alex Johnson
+Member Number: 940751668
+Member Address: 2690 Aspen Boulevard
+Member City: Ruraltown
+Member State: Texas
+Member Zip: 76632
+
+Date of Service: 11-30-2023
+Provider Name: Liam Taylor
+Service Name: Psychotherapy
+--------------------------------------
+
+Date of Service: 11-29-2023
+Provider Name: Chloe Adams
+Service Name: Liposuction
+--------------------------------------
+

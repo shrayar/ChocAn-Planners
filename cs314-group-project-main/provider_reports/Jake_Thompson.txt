@@ -1,0 +1,25 @@
+Provider Name: Jake Thompson
+Provider Number: 180221908
+Provider Address: 305 Oak Avenue
+Provider City: Meadowville
+Provider State: New York
+Provider Zip: 62142
+
+Date of Service: 11-29-2023
+Date Recorded: 11-30-2023 04:33:22
+Member Name: Ethan Parker
+Member Number: 776391558
+Service Name: Aerobic Exercise
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-26-2023
+Date Recorded: 11-27-2023 07:22:54
+Member Name: Owen Bennett
+Member Number: 505205113
+Service Name: Gait Training
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

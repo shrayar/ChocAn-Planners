@@ -1,0 +1,41 @@
+Provider Name: Wyatt Hayes
+Provider Number: 464086781
+Provider Address: 2242 Sycamore Street
+Provider City: Greenfield
+Provider State: Alabama
+Provider Zip: 77799
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 20:59:11
+Member Name: Sophia Taylor
+Member Number: 708120606
+Service Name: Cryotherapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 20:10:28
+Member Name: Mason Anderson
+Member Number: 383127341
+Service Name: Endorphin Replacement Therapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 19:42:24
+Member Name: Chloe Adams
+Member Number: 439423299
+Service Name: Water Aerobics
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 12-01-2023
+Date Recorded: 12-01-2023 11:55:37
+Member Name: Zoey Evans
+Member Number: 924172315
+Service Name: Medical Evaluation
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 4
+Total Fee for the Week: $0.00

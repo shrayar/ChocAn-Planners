@@ -1,0 +1,22 @@
+Member Name: Owen Bennett
+Member Number: 505205113
+Member Address: 2018 Birch Lane
+Member City: Riverdale
+Member State: Tennessee
+Member Zip: 48564
+
+Date of Service: 11-28-2023
+Provider Name: Emily Davis
+Service Name: Water Aerobics
+--------------------------------------
+
+Date of Service: 11-27-2023
+Provider Name: Chloe Adams
+Service Name: Chocolate Detox Therapy
+--------------------------------------
+
+Date of Service: 11-26-2023
+Provider Name: Jake Thompson
+Service Name: Gait Training
+--------------------------------------
+

@@ -1,0 +1,33 @@
+Provider Name: Liam Taylor
+Provider Number: 452666162
+Provider Address: 101 Cedar Lane
+Provider City: Tranquil Springs
+Provider State: Montana
+Provider Zip: 66693
+
+Date of Service: 11-26-2023
+Date Recorded: 11-26-2023 11:07:46
+Member Name: Chloe Adams
+Member Number: 439423299
+Service Name: Water Aerobics
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-30-2023
+Date Recorded: 11-30-2023 13:42:28
+Member Name: Alex Johnson
+Member Number: 940751668
+Service Name: Psychotherapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-30-2023
+Date Recorded: 11-30-2023 21:05:07
+Member Name: Isabella Turner
+Member Number: 914759565
+Service Name: Endorphin Replacement Therapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 3
+Total Fee for the Week: $0.00

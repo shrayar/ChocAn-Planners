@@ -1,0 +1,120 @@
+{
+    "ServiceName": "Hypnotherapy",
+    "ServiceCode": 426002,
+    "ServiceFee": 196.27
+}
+
+{
+    "ServiceName": "Dietician Consult",
+    "ServiceCode": 849166,
+    "ServiceFee": 78.32
+}
+
+{
+    "ServiceName": "Pulmonary Rehabilitation",
+    "ServiceCode": 313899,
+    "ServiceFee": 119.93
+}
+
+{
+    "ServiceName": "Cardiac Rehabilitation",
+    "ServiceCode": 137556,
+    "ServiceFee": 59.65
+}
+
+{
+    "ServiceName": "Withdrawal Management",
+    "ServiceCode": 246611,
+    "ServiceFee": 56.36
+}
+
+{
+    "ServiceName": "Group Psychotherapy",
+    "ServiceCode": 119053,
+    "ServiceFee": 80.43
+}
+
+{
+    "ServiceName": "Psychotherapy",
+    "ServiceCode": 625631,
+    "ServiceFee": 130.92
+}
+
+{
+    "ServiceName": "Aerobic Exercise",
+    "ServiceCode": 669221,
+    "ServiceFee": 186.74
+}
+
+{
+    "ServiceName": "Cryotherapy",
+    "ServiceCode": 265508,
+    "ServiceFee": 51.13
+}
+
+{
+    "ServiceName": "Gastric Bypass",
+    "ServiceCode": 156989,
+    "ServiceFee": 175.4
+}
+
+{
+    "ServiceName": "Anaerobic Exercise",
+    "ServiceCode": 969511,
+    "ServiceFee": 66.73
+}
+
+{
+    "ServiceName": "Water Aerobics",
+    "ServiceCode": 565935,
+    "ServiceFee": 123.94
+}
+
+{
+    "ServiceName": "Medical Evaluation",
+    "ServiceCode": 816754,
+    "ServiceFee": 51.13
+}
+
+{
+    "ServiceName": "Liposuction",
+    "ServiceCode": 647141,
+    "ServiceFee": 153.28
+}
+
+{
+    "ServiceName": "Flexibility Training",
+    "ServiceCode": 177444,
+    "ServiceFee": 56.94
+}
+
+{
+    "ServiceName": "Gait Training",
+    "ServiceCode": 120619,
+    "ServiceFee": 98.3
+}
+
+{
+    "ServiceName": "Strength Training",
+    "ServiceCode": 843211,
+    "ServiceFee": 122.26
+}
+
+{
+    "ServiceName": "Cognitive-Behavioral Therapy",
+    "ServiceCode": 123257,
+    "ServiceFee": 166.89
+}
+
+{
+    "ServiceName": "Chocolate Detox Therapy",
+    "ServiceCode": 335782,
+    "ServiceFee": 186.04
+}
+
+{
+    "ServiceName": "Endorphin Replacement Therapy",
+    "ServiceCode": 165855,
+    "ServiceFee": 171.88
+}
+

@@ -1,0 +1,17 @@
+Member Name: Jake Thompson
+Member Number: 153849756
+Member Address: 305 Oak Avenue
+Member City: Meadowville
+Member State: New York
+Member Zip: 62142
+
+Date of Service: 11-30-2023
+Provider Name: Sophia Taylor
+Service Name: Gait Training
+--------------------------------------
+
+Date of Service: 11-25-2023
+Provider Name: Harper Murphy
+Service Name: Liposuction
+--------------------------------------
+

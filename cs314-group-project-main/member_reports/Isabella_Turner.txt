@@ -1,0 +1,22 @@
+Member Name: Isabella Turner
+Member Number: 914759565
+Member Address: 1234 Spruce Court
+Member City: Lakeview
+Member State: Michigan
+Member Zip: 51175
+
+Date of Service: 11-26-2023
+Provider Name: Chloe Adams
+Service Name: Liposuction
+--------------------------------------
+
+Date of Service: 11-26-2023
+Provider Name: Owen Bennett
+Service Name: Strength Training
+--------------------------------------
+
+Date of Service: 11-30-2023
+Provider Name: Liam Taylor
+Service Name: Endorphin Replacement Therapy
+--------------------------------------
+

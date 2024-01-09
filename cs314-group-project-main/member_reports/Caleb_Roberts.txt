@@ -1,0 +1,22 @@
+Member Name: Caleb Roberts
+Member Number: 983659929
+Member Address: 1122 Magnolia Drive
+Member City: Maplewood
+Member State: Oregon
+Member Zip: 88803
+
+Date of Service: 11-25-2023
+Provider Name: Caleb Roberts
+Service Name: Cognitive-Behavioral Therapy
+--------------------------------------
+
+Date of Service: 11-27-2023
+Provider Name: Benjamin Dixon
+Service Name: Liposuction
+--------------------------------------
+
+Date of Service: 11-25-2023
+Provider Name: Owen Bennett
+Service Name: Withdrawal Management
+--------------------------------------
+

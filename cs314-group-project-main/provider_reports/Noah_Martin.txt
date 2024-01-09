@@ -1,0 +1,33 @@
+Provider Name: Noah Martin
+Provider Number: 211657916
+Provider Address: 917 Redwood Avenue
+Provider City: Oceanville
+Provider State: Ohio
+Provider Zip: 28324
+
+Date of Service: 11-28-2023
+Date Recorded: 11-28-2023 12:45:32
+Member Name: Ava Wilson
+Member Number: 927517086
+Service Name: Gait Training
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-30-2023
+Date Recorded: 11-30-2023 17:50:40
+Member Name: Harper Murphy
+Member Number: 779453441
+Service Name: Pulmonary Rehabilitation
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-26-2023
+Date Recorded: 11-26-2023 18:56:59
+Member Name: Noah Martin
+Member Number: 769114013
+Service Name: Medical Evaluation
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 3
+Total Fee for the Week: $0.00

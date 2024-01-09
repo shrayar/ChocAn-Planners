@@ -1,0 +1,12 @@
+Member Name: Benjamin Dixon
+Member Number: 231207081
+Member Address: 2466 Juniper Lane
+Member City: Valleytown
+Member State: Hawaii
+Member Zip: 80899
+
+Date of Service: 11-25-2023
+Provider Name: Caleb Roberts
+Service Name: Aerobic Exercise
+--------------------------------------
+

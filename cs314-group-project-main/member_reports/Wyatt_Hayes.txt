@@ -1,0 +1,22 @@
+Member Name: Wyatt Hayes
+Member Number: 534198653
+Member Address: 2242 Sycamore Street
+Member City: Greenfield
+Member State: Alabama
+Member Zip: 77799
+
+Date of Service: 12-01-2023
+Provider Name: Ella Foster
+Service Name: Psychotherapy
+--------------------------------------
+
+Date of Service: 11-30-2023
+Provider Name: Zoey Evans
+Service Name: Gastric Bypass
+--------------------------------------
+
+Date of Service: 11-25-2023
+Provider Name: Mason Anderson
+Service Name: Cognitive-Behavioral Therapy
+--------------------------------------
+
