@@ -1,0 +1,410 @@
+[
+    {
+        "DateRecorded": "11-26-2023 03:12:45",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 292105309,
+        "MemberID": 776391558,
+        "ServiceCode": 969511,
+        "Comment": "Patient was quite irate."
+    },
+    {
+        "DateRecorded": "11-26-2023 08:27:18",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 634951181,
+        "MemberID": 983659929,
+        "ServiceCode": 123257,
+        "Comment": "N/A"
+    },
+    {
+        "DateRecorded": "11-28-2023 12:45:32",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 211657916,
+        "MemberID": 927517086,
+        "ServiceCode": 120619,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "12-01-2023 15:19:56",
+        "DateOfService": "12-01-2023",
+        "ProviderID": 117291000,
+        "MemberID": 534198653,
+        "ServiceCode": 625631,
+        "Comment": "Sent patient home with pamphlet for rehab program"
+    },
+    {
+        "DateRecorded": "11-29-2023 21:08:14",
+        "DateOfService": "11-29-2023",
+        "ProviderID": 323987037,
+        "MemberID": 813176642,
+        "ServiceCode": 137556,
+        "Comment": "Patient reports increased chocolate cravings"
+    },
+    {
+        "DateRecorded": "11-26-2023 09:36:27",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 323987037,
+        "MemberID": 924172315,
+        "ServiceCode": 137556,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-30-2023 17:50:40",
+        "DateOfService": "11-30-2023",
+        "ProviderID": 211657916,
+        "MemberID": 779453441,
+        "ServiceCode": 313899,
+        "Comment": "Third of 7 approved visits."
+    },
+    {
+        "DateRecorded": "11-29-2023 06:14:53",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 918506988,
+        "MemberID": 813176642,
+        "ServiceCode": 165855,
+        "Comment": "Bill remaining amount to patient's primary health insurance"
+    },
+    {
+        "DateRecorded": "11-30-2023 19:02:07",
+        "DateOfService": "11-30-2023",
+        "ProviderID": 309516521,
+        "MemberID": 534198653,
+        "ServiceCode": 156989,
+        "Comment": "Reduced session time due to issues with traffic"
+    },
+    {
+        "DateRecorded": "12-01-2023 02:48:21",
+        "DateOfService": "11-30-2023",
+        "ProviderID": 406892096,
+        "MemberID": 769114013,
+        "ServiceCode": 265508,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-30-2023 14:29:38",
+        "DateOfService": "11-30-2023",
+        "ProviderID": 406892096,
+        "MemberID": 153849756,
+        "ServiceCode": 120619,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-26-2023 23:17:02",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 832191007,
+        "MemberID": 948138659,
+        "ServiceCode": 625631,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-29-2023 05:53:14",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 745539656,
+        "MemberID": 505205113,
+        "ServiceCode": 565935,
+        "Comment": "Discharge visit"
+    },
+    {
+        "DateRecorded": "11-28-2023 10:21:43",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 674874051,
+        "MemberID": 924172315,
+        "ServiceCode": 265508,
+        "Comment": "Initial visit"
+    },
+    {
+        "DateRecorded": "12-01-2023 16:04:59",
+        "DateOfService": "12-01-2023",
+        "ProviderID": 323987037,
+        "MemberID": 779453441,
+        "ServiceCode": 647141,
+        "Comment": "referred patient to a different provider"
+    },
+    {
+        "DateRecorded": "11-30-2023 04:33:22",
+        "DateOfService": "11-29-2023",
+        "ProviderID": 180221908,
+        "MemberID": 776391558,
+        "ServiceCode": 669221,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-26-2023 11:07:46",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 452666162,
+        "MemberID": 439423299,
+        "ServiceCode": 565935,
+        "Comment": "Patient no longer allowed at clinic due to treatment of front desk staff"
+    },
+    {
+        "DateRecorded": "11-25-2023 20:59:11",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 464086781,
+        "MemberID": 708120606,
+        "ServiceCode": 265508,
+        "Comment": "All future visits cancelled"
+    },
+    {
+        "DateRecorded": "11-30-2023 13:42:28",
+        "DateOfService": "11-30-2023",
+        "ProviderID": 452666162,
+        "MemberID": 940751668,
+        "ServiceCode": 625631,
+        "Comment": "patient reports back pain"
+    },
+    {
+        "DateRecorded": "11-26-2023 07:10:51",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 213499751,
+        "MemberID": 769114013,
+        "ServiceCode": 177444,
+        "Comment": "fifth visit"
+    },
+    {
+        "DateRecorded": "11-28-2023 22:34:04",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 817190883,
+        "MemberID": 927517086,
+        "ServiceCode": 647141,
+        "Comment": "poor adherence to home program"
+    },
+    {
+        "DateRecorded": "12-01-2023 18:16:19",
+        "DateOfService": "12-01-2023",
+        "ProviderID": 674874051,
+        "MemberID": 948138659,
+        "ServiceCode": 335782,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-27-2023 08:41:35",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 634951181,
+        "MemberID": 231207081,
+        "ServiceCode": 669221,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-28-2023 01:25:49",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 323987037,
+        "MemberID": 914759565,
+        "ServiceCode": 647141,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-27-2023 15:58:05",
+        "DateOfService": "11-27-2023",
+        "ProviderID": 817190883,
+        "MemberID": 983659929,
+        "ServiceCode": 647141,
+        "Comment": "patient reports headaches"
+    },
+    {
+        "DateRecorded": "11-29-2023 09:20:15",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 745539656,
+        "MemberID": 924172315,
+        "ServiceCode": 137556,
+        "Comment": "initial consulation"
+    },
+    {
+        "DateRecorded": "11-25-2023 11:36:24",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 148998331,
+        "MemberID": 181341705,
+        "ServiceCode": 120619,
+        "Comment": "discharged"
+    },
+    {
+        "DateRecorded": "11-25-2023 19:14:39",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 918506988,
+        "MemberID": 321305238,
+        "ServiceCode": 816754,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-28-2023 02:59:53",
+        "DateOfService": "11-27-2023",
+        "ProviderID": 323987037,
+        "MemberID": 505205113,
+        "ServiceCode": 335782,
+        "Comment": "patient has no interest in conintued treatment"
+    },
+    {
+        "DateRecorded": "11-29-2023 16:28:07",
+        "DateOfService": "11-29-2023",
+        "ProviderID": 323987037,
+        "MemberID": 769114013,
+        "ServiceCode": 156989,
+        "Comment": "patient had difficulty finding clinic"
+    },
+    {
+        "DateRecorded": "11-30-2023 04:42:11",
+        "DateOfService": "11-29-2023",
+        "ProviderID": 323987037,
+        "MemberID": 940751668,
+        "ServiceCode": 647141,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-26-2023 10:13:28",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 832191007,
+        "MemberID": 914759565,
+        "ServiceCode": 843211,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "12-01-2023 13:50:39",
+        "DateOfService": "12-01-2023",
+        "ProviderID": 213499751,
+        "MemberID": 776391558,
+        "ServiceCode": 816754,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-27-2023 07:22:54",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 180221908,
+        "MemberID": 505205113,
+        "ServiceCode": 120619,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-30-2023 21:05:07",
+        "DateOfService": "11-30-2023",
+        "ProviderID": 452666162,
+        "MemberID": 914759565,
+        "ServiceCode": 165855,
+        "Comment": "patient requested to switch providers"
+    },
+    {
+        "DateRecorded": "11-26-2023 05:33:20",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 297902205,
+        "MemberID": 153849756,
+        "ServiceCode": 647141,
+        "Comment": "have the medical records department contact patient"
+    },
+    {
+        "DateRecorded": "11-28-2023 12:07:35",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 148998331,
+        "MemberID": 779453441,
+        "ServiceCode": 313899,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-25-2023 17:44:49",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 286909339,
+        "MemberID": 752405621,
+        "ServiceCode": 647141,
+        "Comment": "get copy of intake paperwork"
+    },
+    {
+        "DateRecorded": "11-25-2023 23:19:02",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 832191007,
+        "MemberID": 983659929,
+        "ServiceCode": 246611,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-27-2023 06:51:18",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 745539656,
+        "MemberID": 779453441,
+        "ServiceCode": 625631,
+        "Comment": "patient reports no withdrawal symptoms"
+    },
+    {
+        "DateRecorded": "11-28-2023 14:30:32",
+        "DateOfService": "11-28-2023",
+        "ProviderID": 297902205,
+        "MemberID": 769114013,
+        "ServiceCode": 265508,
+        "Comment": "patient has made no measurable improvements"
+    },
+    {
+        "DateRecorded": "11-27-2023 08:04:46",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 501667717,
+        "MemberID": 769114013,
+        "ServiceCode": 669221,
+        "Comment": "All chocolate has been removed from patients home"
+    },
+    {
+        "DateRecorded": "11-26-2023 18:56:59",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 211657916,
+        "MemberID": 769114013,
+        "ServiceCode": 816754,
+        "Comment": "Spanish interpreter needed"
+    },
+    {
+        "DateRecorded": "11-27-2023 03:25:12",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 213499751,
+        "MemberID": 948138659,
+        "ServiceCode": 816754,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-25-2023 20:10:28",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 464086781,
+        "MemberID": 383127341,
+        "ServiceCode": 165855,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-28-2023  09:48:41",
+        "DateOfService": "11-27-2023",
+        "ProviderID": 309516521,
+        "MemberID": 450517940,
+        "ServiceCode": 265508,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "11-25-2023 16:37:54",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 197531130,
+        "MemberID": 534198653,
+        "ServiceCode": 123257,
+        "Comment": "patient requests visits with only this provider"
+    },
+    {
+        "DateRecorded": "11-25-2023 19:42:24",
+        "DateOfService": "11-25-2023",
+        "ProviderID": 464086781,
+        "MemberID": 439423299,
+        "ServiceCode": 565935,
+        "Comment": "patient called reporting increase in symptoms after visit"
+    },
+    {
+        "DateRecorded": "11-27-2023 01:09:09",
+        "DateOfService": "11-26-2023",
+        "ProviderID": 286909339,
+        "MemberID": 813176642,
+        "ServiceCode": 625631,
+        "Comment": ""
+    },
+    {
+        "DateRecorded": "12-01-2023 11:55:37",
+        "DateOfService": "12-01-2023",
+        "ProviderID": 464086781,
+        "MemberID": 924172315,
+        "ServiceCode": 816754,
+        "Comment": "ASL interpreter has been requested"
+    },
+    {
+        "DateRecorded": "12-02-2023 03:39:29",
+        "DateOfService": "11-30-2050",
+        "ProviderID": 745539656,
+        "MemberID": 948138659,
+        "ServiceCode": 313899,
+        "Comment": "ha"
+    }
+]

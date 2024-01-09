@@ -1,0 +1,17 @@
+Provider Name: Mason Anderson
+Provider Number: 197531130
+Provider Address: 713 Willow Road
+Provider City: Mountainview
+Provider State: Georgia
+Provider Zip: 10100
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 16:37:54
+Member Name: Wyatt Hayes
+Member Number: 534198653
+Service Name: Cognitive-Behavioral Therapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 1
+Total Fee for the Week: $0.00

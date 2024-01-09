@@ -1,0 +1,22 @@
+Member Name: Lucas Cooper
+Member Number: 813176642
+Member Address: 1346 Cypress Road
+Member City: Hillcrest
+Member State: North Carolina
+Member Zip: 76013
+
+Date of Service: 11-29-2023
+Provider Name: Chloe Adams
+Service Name: Cardiac Rehabilitation
+--------------------------------------
+
+Date of Service: 11-28-2023
+Provider Name: Ava Wilson
+Service Name: Endorphin Replacement Therapy
+--------------------------------------
+
+Date of Service: 11-26-2023
+Provider Name: Alex Johnson
+Service Name: Psychotherapy
+--------------------------------------
+

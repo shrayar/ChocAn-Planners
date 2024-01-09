@@ -1,0 +1,10 @@
+Provider Name: Alex Johnson
+Provider ID: 940751668
+Amount: 50
+--------------------------------------
+
+Provider Name: Emily Davis
+Provider ID: 745539656
+Amount: 123.94
+--------------------------------------
+

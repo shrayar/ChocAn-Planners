@@ -1,0 +1,17 @@
+Provider Name: Isabella Turner
+Provider Number: 292105309
+Provider Address: 1234 Spruce Court
+Provider City: Lakeview
+Provider State: Michigan
+Provider Zip: 51175
+
+Date of Service: 11-25-2023
+Date Recorded: 11-26-2023 03:12:45
+Member Name: Ethan Parker
+Member Number: 776391558
+Service Name: Anaerobic Exercise
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 1
+Total Fee for the Week: $0.00

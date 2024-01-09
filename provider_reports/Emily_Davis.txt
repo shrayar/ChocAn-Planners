@@ -1,0 +1,33 @@
+Provider Name: Emily Davis
+Provider Number: 745539656
+Provider Address: 203 Elm Street
+Provider City: Suburbville
+Provider State: California
+Provider Zip: 15141
+
+Date of Service: 11-28-2023
+Date Recorded: 11-29-2023 05:53:14
+Member Name: Owen Bennett
+Member Number: 505205113
+Service Name: Water Aerobics
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-29-2023 09:20:15
+Member Name: Zoey Evans
+Member Number: 924172315
+Service Name: Cardiac Rehabilitation
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-26-2023
+Date Recorded: 11-27-2023 06:51:18
+Member Name: Harper Murphy
+Member Number: 779453441
+Service Name: Psychotherapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 3
+Total Fee for the Week: $0.00

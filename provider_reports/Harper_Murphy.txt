@@ -1,0 +1,25 @@
+Provider Name: Harper Murphy
+Provider Number: 297902205
+Provider Address: 2354 Redwood Avenue
+Provider City: Silver Springs
+Provider State: Alaska
+Provider Zip: 44906
+
+Date of Service: 11-25-2023
+Date Recorded: 11-26-2023 05:33:20
+Member Name: Jake Thompson
+Member Number: 153849756
+Service Name: Liposuction
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-28-2023
+Date Recorded: 11-28-2023 14:30:32
+Member Name: Noah Martin
+Member Number: 769114013
+Service Name: Cryotherapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

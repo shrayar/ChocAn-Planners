@@ -1,0 +1,25 @@
+Provider Name: Jackson Reed
+Provider Number: 148998331
+Provider Address: 1570 Elm Street
+Provider City: Brookside
+Provider State: Wisconsin
+Provider Zip: 82007
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 11:36:24
+Member Name: Emily Davis
+Member Number: 181341705
+Service Name: Gait Training
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-28-2023
+Date Recorded: 11-28-2023 12:07:35
+Member Name: Harper Murphy
+Member Number: 779453441
+Service Name: Pulmonary Rehabilitation
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

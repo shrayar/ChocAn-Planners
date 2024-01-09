@@ -1,0 +1,25 @@
+Provider Name: Olivia Mitchell
+Provider Number: 674874051
+Provider Address: 407 Maple Drive
+Provider City: Havenfield
+Provider State: Florida
+Provider Zip: 67890
+
+Date of Service: 11-28-2023
+Date Recorded: 11-28-2023 10:21:43
+Member Name: Zoey Evans
+Member Number: 924172315
+Service Name: Cryotherapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 12-01-2023
+Date Recorded: 12-01-2023 18:16:19
+Member Name: Liam Taylor
+Member Number: 948138659
+Service Name: Chocolate Detox Therapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

@@ -1,0 +1,65 @@
+Provider Name: Chloe Adams
+Provider Number: 323987037
+Provider Address: 1906 Pine Court
+Provider City: Meadowland
+Provider State: Missouri
+Provider Zip: 24984
+
+Date of Service: 11-29-2023
+Date Recorded: 11-29-2023 21:08:14
+Member Name: Lucas Cooper
+Member Number: 813176642
+Service Name: Cardiac Rehabilitation
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-26-2023 09:36:27
+Member Name: Zoey Evans
+Member Number: 924172315
+Service Name: Cardiac Rehabilitation
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 12-01-2023
+Date Recorded: 12-01-2023 16:04:59
+Member Name: Harper Murphy
+Member Number: 779453441
+Service Name: Liposuction
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-26-2023
+Date Recorded: 11-28-2023 01:25:49
+Member Name: Isabella Turner
+Member Number: 914759565
+Service Name: Liposuction
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-27-2023
+Date Recorded: 11-28-2023 02:59:53
+Member Name: Owen Bennett
+Member Number: 505205113
+Service Name: Chocolate Detox Therapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-29-2023
+Date Recorded: 11-29-2023 16:28:07
+Member Name: Noah Martin
+Member Number: 769114013
+Service Name: Gastric Bypass
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-29-2023
+Date Recorded: 11-30-2023 04:42:11
+Member Name: Alex Johnson
+Member Number: 940751668
+Service Name: Liposuction
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 7
+Total Fee for the Week: $0.00

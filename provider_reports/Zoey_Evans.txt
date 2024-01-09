@@ -1,0 +1,25 @@
+Provider Name: Zoey Evans
+Provider Number: 309516521
+Provider Address: 2130 Willow Road
+Provider City: Sunnydale
+Provider State: Louisiana
+Provider Zip: 10536
+
+Date of Service: 11-30-2023
+Date Recorded: 11-30-2023 19:02:07
+Member Name: Wyatt Hayes
+Member Number: 534198653
+Service Name: Gastric Bypass
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-27-2023
+Date Recorded: 11-28-2023  09:48:41
+Member Name: Ella Foster
+Member Number: 450517940
+Service Name: Cryotherapy
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

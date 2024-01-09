@@ -1,0 +1,12 @@
+Member Name: Emily Davis
+Member Number: 181341705
+Member Address: 203 Elm Street
+Member City: Suburbville
+Member State: California
+Member Zip: 15141
+
+Date of Service: 11-25-2023
+Provider Name: Jackson Reed
+Service Name: Gait Training
+--------------------------------------
+

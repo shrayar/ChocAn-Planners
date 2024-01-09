@@ -1,0 +1,38 @@
+# Change pip's cache directory to be inside the project directory since we can
+# only cache local items.
+variables:
+    PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+.python:
+    image: python:latest
+    cache:
+        paths:
+            - .cache/pip
+            - venv/
+            - .mypy_cache
+            - .pytest_cache
+            - .ruff_cache
+    before_script:
+        - python --version ; pip --version  # For debugging
+        - pip install virtualenv
+        - virtualenv venv
+        - source venv/bin/activate
+
+.hatch:
+    extends:
+        - .python
+    before_script:
+        - !reference [.python, before_script]
+        - pip install hatch
+        - hatch --version
+
+test:
+    extends:
+        - .hatch
+    script:
+        - hatch run lint:all
+        - hatch run test
+    rules:
+        - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+        - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+

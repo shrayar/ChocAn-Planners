@@ -1,0 +1,33 @@
+Provider Name: Owen Bennett
+Provider Number: 832191007
+Provider Address: 2018 Birch Lane
+Provider City: Riverdale
+Provider State: Tennessee
+Provider Zip: 48564
+
+Date of Service: 11-26-2023
+Date Recorded: 11-26-2023 23:17:02
+Member Name: Liam Taylor
+Member Number: 948138659
+Service Name: Psychotherapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-26-2023
+Date Recorded: 11-26-2023 10:13:28
+Member Name: Isabella Turner
+Member Number: 914759565
+Service Name: Strength Training
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 23:19:02
+Member Name: Caleb Roberts
+Member Number: 983659929
+Service Name: Withdrawal Management
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 3
+Total Fee for the Week: $0.00

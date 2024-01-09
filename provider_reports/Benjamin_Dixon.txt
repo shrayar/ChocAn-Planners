@@ -1,0 +1,25 @@
+Provider Name: Benjamin Dixon
+Provider Number: 817190883
+Provider Address: 2466 Juniper Lane
+Provider City: Valleytown
+Provider State: Hawaii
+Provider Zip: 80899
+
+Date of Service: 11-28-2023
+Date Recorded: 11-28-2023 22:34:04
+Member Name: Ava Wilson
+Member Number: 927517086
+Service Name: Liposuction
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-27-2023
+Date Recorded: 11-27-2023 15:58:05
+Member Name: Caleb Roberts
+Member Number: 983659929
+Service Name: Liposuction
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00

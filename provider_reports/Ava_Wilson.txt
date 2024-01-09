@@ -1,0 +1,25 @@
+Provider Name: Ava Wilson
+Provider Number: 918506988
+Provider Address: 815 Sycamore Street
+Provider City: Pleasantville
+Provider State: Arizona
+Provider Zip: 76378
+
+Date of Service: 11-28-2023
+Date Recorded: 11-29-2023 06:14:53
+Member Name: Lucas Cooper
+Member Number: 813176642
+Service Name: Endorphin Replacement Therapy
+Fee Paid: $0
+--------------------------------------
+
+Date of Service: 11-25-2023
+Date Recorded: 11-25-2023 19:14:39
+Member Name: Olivia Mitchell
+Member Number: 321305238
+Service Name: Medical Evaluation
+Fee Paid: $0
+--------------------------------------
+
+Total Consultations: 2
+Total Fee for the Week: $0.00
